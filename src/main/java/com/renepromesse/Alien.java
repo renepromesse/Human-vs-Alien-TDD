@@ -33,17 +33,17 @@ public class Alien extends Specy {
 
     public void mutate() {
         if (this.planet.equals("PLUTO")) {
-            System.out.println("Sorry I'm currently unresponsive while dreaming 💤️");
+            System.out.println("Now I'm King Shark 🧞️");
         } else {
-            System.out.println("Sorry, On this planet we don't Dream!");
+            System.out.println("Sorry, I cannot Mutate!");
         }
     }
 
     public void dream() {
         if (this.planet.equals("PLUTO")) {
-            System.out.println("Now I'm a Ghost 👻️");
+            System.out.println("Sorry I'm currently unresponsive while dreaming 💤️");
         } else {
-            System.out.println("Sorry, I can't teleport!");
+            System.out.println("Sorry, On this planet we don't Dream!");
         }
     }
 
