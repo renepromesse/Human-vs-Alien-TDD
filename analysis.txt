@@ -1,0 +1,32 @@
+Entities
+------
+
+- HUMAN 
+
+Fields
+
+- name,age, height, weight, country,language
+
+Activities 
+ - walk, jump, sleep, eat, study, drive, swim, speak
+
+- ALIEN 
+
+Fields
+
+- name, age, height, weight, planet, superPower, superPowerDescription
+
+Activities
+
+- teleport, speak, walk, jump, sleep 
+
+
+Shared fields: name, age, height, weight 
+Shared Activities: speak, walk, jump, sleep 
+
+Unique fields - HUMAN : country, language 
+Unique Activities - HUMAN : study, drive, swim 
+
+Unique fields - ALIEN : planet, superPower, superPowerDescription
+Unique Activities - ALIEN : teleport
+
