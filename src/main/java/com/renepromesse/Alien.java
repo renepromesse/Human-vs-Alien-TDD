@@ -1,6 +1,6 @@
 package com.renepromesse;
 
-public class Alien extends Specy {
+public class Alien extends Species {
     private String planet;
     private Superpower superPowers = null;
 

@@ -1,12 +1,12 @@
 package com.renepromesse;
 
-public class Specy {
+public class Species {
     private String name;
     private int age;
     private String height;
     private String weight;
 
-    public Specy(String name, int age, String height, String weight) {
+    public Species(String name, int age, String height, String weight) {
         this.name = name;
         this.age = age;
         this.height = height;

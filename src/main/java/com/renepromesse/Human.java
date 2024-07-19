@@ -1,6 +1,6 @@
 package com.renepromesse;
 
-public class Human extends Specy {
+public class Human extends Species {
     private String country;
     private String language;
 
